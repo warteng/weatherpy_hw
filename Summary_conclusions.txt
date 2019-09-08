@@ -1,0 +1,10 @@
+API – Homework 6
+Observable trends in the data
+
+For the Latitude vs Temperature plot, which plots together the latitudes of the data set along with the maximum temperature in the city. It is pretty clear that the cities that have their latitude closer to 0 which means closer to the equator, have the highest maximum temperature. As you move further away from the equator the maximum temperature drops to lower values. 
+
+For the Latitude vs Humidity plot, the results are somewhat mixed however still descriptive. I imagine the higher density of cities in the mid-range and may have affected this. The latitudes at the extremes being (-60,-40 & 80) did not appear to have a low humidity percentage. Most of the cities between latitudes (-20 to 40) seemed to have the lowest humidity percentage. 
+
+The Latitude vs Cloudiness plot was also interesting because the results seemed pretty inconclusive on how cloudiness relates to the latitudes of the cities. However, this seems to tell us the cloudiness varies throughout and cannot necessarily be predicted solely based on the latitudes.
+
+The Latitude vs wind speed plot also looks quite even across the latitudes. The highest wind speed recorded was between latitudes -40 and -20 however I think this would vary on another day therefore it does not look like there is a definite conclusion that can be made with relation to wind speed and latitude. 
